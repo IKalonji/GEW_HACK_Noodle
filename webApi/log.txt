@@ -1,0 +1,100 @@
+####################################################################################################
+human: 
+human: 
+human: It's even great.
+human: i'm
+human: 
+ai: Hi Wilson! Thank you for calling Noodle Insurance onboarding help line. My name is Stacy. I will be your agent today. Based on our calculations, we have a policy of twenty thousands rands payout for 25 rands per month premium. Would you like this policy?
+[
+  {
+    "type": "Intent",
+    "skill": "sentiment",
+    "weight": -1,
+    "likelihood": -1,
+    "location": {
+      "start": 0,
+      "end": 3
+    },
+    "intent": null,
+    "state": "positive",
+    "sentenceType": "statement"
+  },
+  {
+    "type": "Intent",
+    "skill": "sentiment",
+    "weight": -1,
+    "likelihood": -1,
+    "location": {
+      "start": 0,
+      "end": 3
+    },
+    "intent": null,
+    "state": "negative",
+    "sentenceType": "statement"
+  },
+  {
+    "type": "Data",
+    "skill": "71f5e6f43b4f21c7e3fdea00f7b00986:v2",
+    "weight": 0.95375,
+    "likelihood": 1,
+    "location": {
+      "start": 5,
+      "end": 15
+    },
+    "factType": "policy",
+    "data": {
+      "value": "even great"
+    }
+  }
+]
+human: no
+human: 
+ai: Could you say it one more time?
+[
+  {
+    "type": "Intent",
+    "skill": "71f5e6f43b4f21c7e3fdea00f7b00986:v2",
+    "weight": 0.91303,
+    "likelihood": 1,
+    "location": {
+      "start": -1,
+      "end": -1
+    },
+    "intent": "no",
+    "state": "positive",
+    "sentenceType": "statement"
+  },
+  {
+    "type": "Intent",
+    "skill": "sentiment",
+    "weight": -1,
+    "likelihood": -1,
+    "location": {
+      "start": 0,
+      "end": 0
+    },
+    "intent": null,
+    "state": "negative",
+    "sentenceType": "statement"
+  }
+]
+human: No.
+human: Adding.
+ai: Thank you again for considering us. We continously review our cover options so we really hope to have something that suites better next time. Bye!
+[
+  {
+    "type": "Intent",
+    "skill": "sentiment",
+    "weight": -1,
+    "likelihood": -1,
+    "location": {
+      "start": 0,
+      "end": 0
+    },
+    "intent": null,
+    "state": "neutral",
+    "sentenceType": "statement"
+  }
+]
+human: yep
+ai: Sorry, I didn't quite catch that.
