@@ -10,7 +10,7 @@ class Services {
 
     final hearders = {
       "Content-Type": "application/json",
-      "x-api-key": "40npImsUOO6MZhkJVahdQ4VY9bF2R1MU1anKF5VX"
+      "x-api-key": "AWSToken"
     };
 
     Map data = {"Image": userImage};
