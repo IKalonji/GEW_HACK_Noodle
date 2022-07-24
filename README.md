@@ -1,15 +1,15 @@
-#GEW_HACK_Noodle
-Hackerthon project
+# GEW_HACK_Noodle
+  Hackerthon project
 
-##Team ThinkCode
+## Team ThinkCode
 Issa Kalonji
 Piet Mahlangu
 Wilson Makoae
 
-##Project details
+## Project details
 Noodle is a seamless way to onboard and complete verification for new funeral cover clients.
 
-##Tech Stack
+## Tech Stack
 Javascript
 Dasha Scripting Language(AI)
 Flutter
