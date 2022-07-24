@@ -2,9 +2,9 @@
   Hackerthon project
 
 ## Team ThinkCode
-Issa Kalonji
-Piet Mahlangu
-Wilson Makoae
+- Issa Kalonji
+- Piet Mahlangu
+- Wilson Makoae
 
 ## Project details
 Noodle is a seamless way to onboard and complete verification for new funeral cover clients.
