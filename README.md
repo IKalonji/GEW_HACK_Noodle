@@ -10,9 +10,9 @@ Wilson Makoae
 Noodle is a seamless way to onboard and complete verification for new funeral cover clients.
 
 ## Tech Stack
-Javascript
-Dasha Scripting Language(AI)
-Flutter
-Flask(Python)
-Amazon Web Services
-MongoDB
+- Javascript
+- Dasha Scripting Language(AI)
+- Flutter
+- Flask(Python)
+- Amazon Web Services
+- MongoDB
