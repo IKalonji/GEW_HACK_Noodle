@@ -1,7 +1,7 @@
-# GEW_HACK_Noodle
+#GEW_HACK_Noodle
 Hackerthon project
 
-## Team ThinkCode
+##Team ThinkCode
 Issa Kalonji
 Piet Mahlangu
 Wilson Makoae
